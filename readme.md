@@ -28,7 +28,7 @@ For reproducibility, we include the scripts and a brief description of how to ge
 
 ### Image Pretraining Dataset
 
-![image](assets/decals.png)
+![image](decals.png)
 
 While the AstroCLIP and Spectrum Encoder models are trained on the image-spectrum dataset, we pretrain the galaxy image model separately on full Stein, et al. (2022) image dataset, which consists of 76M galaxy images. This dataset can be accessed using this globus endpoint:
 
