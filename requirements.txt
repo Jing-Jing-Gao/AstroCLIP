@@ -1,0 +1,13 @@
+os
+spender
+datasets
+torch
+torchvision
+lightning
+pl_bolts
+numpy
+tqdm
+scipy
+scikit-learn
+matplotlib
+seaborn
